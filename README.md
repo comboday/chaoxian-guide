@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="image1.jpg" alt="潮賢宮精美封面圖" width="100%"> </p>
+<p align="center"> <img src="image/image1.jpg" alt="潮賢宮精美封面圖" width="100%"> </p>
 
 <h1 align="center">潮賢宮導覽手冊</h1>
 
@@ -14,5 +14,6 @@
 <b>日期：</b> 2026年 3月 版 </p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDQ0NzM2NywyMTA0MjcyMjA2XX0=
+eyJoaXN0b3J5IjpbMTIzNzMwOTk0NywxMzQ0NDQ3MzY3LDIxMD
+QyNzIyMDZdfQ==
 -->
