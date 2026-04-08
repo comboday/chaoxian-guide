@@ -9,11 +9,13 @@
 
 <p align="center"> <b>編撰：</b> 潮賢宮管理委員會
 
-<b>攝影：</b>林根煌/工作室名稱
+<b>攝影：</b>您的姓名/工作室名稱
 
-<b>日期：</b> 2026年 3月 版 </p>
+<b>日期：</b> 2024年 11月 版
+
+</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzMwOTk0NywxMzQ0NDQ3MzY3LDIxMD
-QyNzIyMDZdfQ==
+eyJoaXN0b3J5IjpbLTc4MzU2NDQ1MiwxMjM3MzA5OTQ3LDEzND
+Q0NDczNjcsMjEwNDI3MjIwNl19
 -->
