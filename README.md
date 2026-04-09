@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="./image/image1.jpg" alt="潮賢宮精美封面圖" width="100%"> </p>
+<p align="center"> <img src="image/image1.jpg" alt="潮賢宮精美封面圖" width="100%"> </p>
 
 <h1 align="center">潮賢宮導覽手冊</h1>
 
@@ -19,6 +19,7 @@
 
 <p align="center"> <sub>同步發布於 GitHub Pages，旨在透過數位與實體媒介傳承在地文化。</sub> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzM2MzgzOSwtNzgzNTY0NDUyLDEyMz
-czMDk5NDcsMTM0NDQ0NzM2NywyMTA0MjcyMjA2XX0=
+eyJoaXN0b3J5IjpbMTk2NTA1NzA4NiwxNTQ3MzYzODM5LC03OD
+M1NjQ0NTIsMTIzNzMwOTk0NywxMzQ0NDQ3MzY3LDIxMDQyNzIy
+MDZdfQ==
 -->
